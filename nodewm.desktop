@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NoDE session
+Name[it]=NoDE sessione
+Comment=No Desktop Enviroment
+Comment[it]=No Desktop Enviroment
+Exec=nodewm
+Terminal=False
+TryExec=nodewm
+Type=Application
+
+[Window Manager]
+SessionManaged=true
