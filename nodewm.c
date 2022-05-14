@@ -4,7 +4,7 @@
  * This software is in the public domain
  * and is provided AS IS, with NO WARRANTY.
  *
- *  gcc -o nodewm nodewm.c -lX11
+ * gcc -o nodewm nodewm.c -lX11
  *
  * su cp nodewm /usr/bin/nodewm
  *
