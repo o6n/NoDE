@@ -23,3 +23,5 @@ Install gcc package
 	$ su cp nodewm /usr/bin/nodewm
  
 	$ su cp nodewm.desktop /usr/share/xsessions/nodewm.desktop
+
+![Download](https://img.shields.io/github/downloads/o6n/Ayumi/total.svg)
