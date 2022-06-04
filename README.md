@@ -23,3 +23,44 @@ Install gcc package
 	$ su cp nodewm /usr/bin/nodewm
  
 	$ su cp nodewm.desktop /usr/share/xsessions/nodewm.desktop
+
+## Keyboard
+Super_L + Delete -> Close window
+Super_L + Up -> Window in the foreground
+Super_L + F11 -> Full screen window
+
+### Apps
+Super_L + Return -> Run xterm
+Super_L + Menu -> Run rofi -show drun
+Super_L + Delete -> Run rofi -show window
+Super_L + F12 -> Exit NoDE
+
+### Windows
+Super_L + Left -> Left half screen
+Super_L + Right -> Right half screen
+
++-------+-------+
+|       |       |
+|       |       |
+| left  | right |
+|       |       |
+|       |       |
++-------+-------+
+
+Super_L + F1 -> Window top left
+Super_L + F2 -> Window top right
+Super_L + F3 -> Window bottom left
+Super_L + F4 -> Window bottom right
+
++-------+-------+
+|       |       |
+|  F1   |  F2   |
+|       |       |
++-------+-------+
+|       |       |
+|  F3   |  F4   |
+|       |       |
++-------+-------+
+
+Super_L + F1 -> Window top left
+Super_L + F2 -> Window top right
