@@ -36,7 +36,7 @@ Super_L + Return -> Run xterm
 
 Super_L + Menu -> Run rofi -show drun
 
-Super_L + Delete -> Run rofi -show window
+Super_L + Tab -> Run rofi -show window
 
 Super_L + F12 -> Exit NoDE
 
