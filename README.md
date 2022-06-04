@@ -39,28 +39,10 @@ Super_L + F12 -> Exit NoDE
 Super_L + Left -> Left half screen
 Super_L + Right -> Right half screen
 
-+-------+-------+\
-|_______|_______|\
-|_______|_______|\
-|_left__|_right_|\
-|_______|_______|\
-|_______|_______|\
-+-------+-------+\
-
 Super_L + F1 -> Window top left
 Super_L + F2 -> Window top right
 Super_L + F3 -> Window bottom left
 Super_L + F4 -> Window bottom right
-
-+-------+-------+\
-|_______|_______|\
-|__F1___|__F2___|\
-|_______|_______|\
-+-------+-------+\
-|_______|_______|\
-|__F3___|__F4___|\
-|_______|_______|\
-+-------+-------+\
 
 Super_L + F1 -> Window top left
 Super_L + F2 -> Window top right
